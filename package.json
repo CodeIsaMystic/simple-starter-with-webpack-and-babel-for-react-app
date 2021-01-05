@@ -1,0 +1,23 @@
+{
+  "name": "webpack-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "Yihua Zhang <yihuazhang2@gmail.com> (http://yihuazhang.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}

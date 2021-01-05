@@ -1,0 +1,9 @@
+/*
+Tells Babel what it needs to transpile to
+*/
+{
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-react"
+  ]
+}
